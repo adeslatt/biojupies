@@ -14,7 +14,7 @@ Flask==0.12.2
 Flask-Cors==3.0.6
 Flask-Mail==0.9.1
 Flask-SQLAlchemy==2.3.2
-future==0.16.0
+future==0.18.3
 gapic-google-cloud-datastore-v1==0.15.3
 gapic-google-cloud-error-reporting-v1beta1==0.15.3
 gapic-google-cloud-logging-v2==0.91.3
