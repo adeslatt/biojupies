@@ -101,7 +101,7 @@ pyxdg==0.25
 pyzmq==17.0.0
 qgrid==1.0.2
 qtconsole==4.3.1
-requests==2.18.4
+requests==2.31.0
 rpy2==2.9.2
 rsa==3.4.2
 scikit-learn==0.19.1
