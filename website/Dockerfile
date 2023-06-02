@@ -1,4 +1,4 @@
-FROM ubuntu:rolling
+FROM ubuntu:23.04
 
 MAINTAINER Denis Torre <denis.torre@mssm.com>
 
