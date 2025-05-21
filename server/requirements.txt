@@ -11,7 +11,7 @@ decorator==4.3.0
 dill==0.2.7.1
 entrypoints==0.2.3
 Flask==0.12.2
-Flask-Cors==3.0.6
+Flask-Cors==6.0.0
 Flask-Mail==0.9.1
 Flask-SQLAlchemy==2.3.2
 future==0.16.0
@@ -113,7 +113,7 @@ sklearn==0.0
 SQLAlchemy==1.2.7
 terminado==0.8.1
 testpath==0.3.1
-tornado==5.0.2
+tornado==6.5
 traitlets==4.3.2
 tzlocal==1.5.1
 urllib3==1.22
